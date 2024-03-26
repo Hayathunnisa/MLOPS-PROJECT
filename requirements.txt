@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 pandas 
 numpy
 seaborn
+=======
+pandas 
+numpy
+seaborn
+>>>>>>> origin/main
 -e .
